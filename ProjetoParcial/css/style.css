@@ -1,0 +1,31 @@
+.member-dashboard {
+    padding: 40px;
+    background: #D2EDD5;
+    color: #555;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  
+  .member-dashboard a {
+    color: #09F;
+    text-decoration: none;
+  }
+  
+  
+  .demo-layout-transparent {
+    background: url('../imagens/layout.jpg') center / cover;
+  }
+  
+  .demo-layout-transparent .mdl-layout__header,
+  .demo-layout-transparent .mdl-layout__drawer-button {
+  
+    color: white;
+  }
+  
+  .mdl-navigation {
+    background-color: #141414;
+  }
+
+  a{
+    color: #000000;
+  }
